@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0898-transpose-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0152-maximum-product-subarray) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0898-transpose-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Simulation
 |  |
 | ------- |
