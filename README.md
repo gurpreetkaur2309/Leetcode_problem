@@ -88,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
