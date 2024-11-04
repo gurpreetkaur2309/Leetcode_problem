@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
