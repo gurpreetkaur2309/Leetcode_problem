@@ -25,28 +25,29 @@ class Solution {
     //     else{
     //         return false;
     //     }
-    boolean flag=false;
+    
     Arrays.sort(nums);
            for(int i=0;i<nums.length-1;i++){
             if(nums[i]==nums[i+1]){
-            flag=true;
+            
             return true;
             }
-            else{
-                flag=false;
-            } 
+            // else{
+            //     flag=false;
+            // } 
                     
-             }
-             if(flag==true){
-                return true;
-             }
-             else{
-                return false;
-             }
+            //  }
+            //  if(flag==true){
+            //     return true;
+            //  }
+            //  else{
+            //     return false;
+            //  }
            
 }
-       
+    return false;   
      
         
     } 
+}
     
