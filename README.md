@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0125-valid-palindrome) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Depth-First Search
 |  |
