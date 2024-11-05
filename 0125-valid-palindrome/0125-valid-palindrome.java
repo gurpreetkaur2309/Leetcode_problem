@@ -4,8 +4,9 @@ class Solution {
         System.out.println(s);
         String news="";
         for(int i=0;i<s.length();i++){
-            if((int)s.charAt(i)>=65 && (int)s.charAt(i)<=90 ||(int)s.charAt(i)>=97 && (int)s.charAt(i)<=122 ||  (int)s.charAt(i)>=48 && (int)s.charAt(i)<=57 ){
-               news=news+s.charAt(i); 
+            char ch=s.charAt(i);
+            if(ch>='a'&& ch<='z' || ch>='A' && ch<= 'Z' || ch>='0' && ch<='9' ){
+               news=news+ch; 
             }
         }
         // char left=news.charAt(0);
