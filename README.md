@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Binary Search
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0217-contains-duplicate) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
