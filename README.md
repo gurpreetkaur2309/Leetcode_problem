@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [0898-transpose-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0898-transpose-matrix) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
