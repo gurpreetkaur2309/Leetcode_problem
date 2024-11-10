@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
