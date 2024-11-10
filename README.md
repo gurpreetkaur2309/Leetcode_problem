@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
@@ -67,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0011-container-with-most-water) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0217-contains-duplicate) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
@@ -121,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
