@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0898-transpose-matrix) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
