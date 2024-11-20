@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0125-valid-palindrome) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0268-missing-number) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Memoization
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
 |  |
 | ------- |
