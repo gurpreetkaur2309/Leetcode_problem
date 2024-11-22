@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0898-transpose-matrix) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0898-transpose-matrix) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Simulation
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0268-missing-number) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Memoization
 |  |
