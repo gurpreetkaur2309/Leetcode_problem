@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
