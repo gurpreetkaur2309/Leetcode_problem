@@ -1,4 +1,4 @@
-from typing import List
+# from typing import List
 
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
@@ -17,19 +17,18 @@ class Solution:
             '9': ['w', 'x', 'y', 'z']
         }
 
-        def backtrack(index: int, current_combination: List[str]):
-            # Base case: if the combination is complete
-            if index == len(digits):
-                combinations.append(''.join(current_combination))
-                return
+        # Start with an empty combination
+        combinations = [""]
 
+        for digit in digits:
             # Get the letters corresponding to the current digit
-            letters = digit_to_letters[digits[index]]
-            for letter in letters:
-                current_combination.append(letter)  # Choose
-                backtrack(index + 1, current_combination)  # Explore
-                current_combination.pop()  # Undo the choice
+            letters = digit_to_letters[digit]
+            new_combinations = []
+            # For each combination so far, append each letter of the current digit
+            for combination in combinations:
+                for letter in letters:
+                    new_combinations.append(combination + letter)
+            # Update combinations with the newly generated combinations
+            combinations = new_combinations
 
-        combinations = []
-        backtrack(0, [])
         return combinations
