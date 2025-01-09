@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0948-sort-an-array) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0268-missing-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0948-sort-an-array) |
 ## Backtracking
 |  |
