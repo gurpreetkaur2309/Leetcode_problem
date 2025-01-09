@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0125-valid-palindrome) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0268-missing-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
