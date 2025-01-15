@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0075-sort-colors) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
