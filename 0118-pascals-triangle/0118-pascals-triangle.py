@@ -34,6 +34,31 @@ class Solution:
             pascal.append(row)
         
         return pascal
+        # arr=[]
+        # if(numRows==1):
+        #     arr.append([1])
+        #     return arr
+        # if(numRows==2):
+        #     arr.append([1])
+        #     arr.append([1,1])
+        #     return arr
+        # elif(numRows>2):
+        #     for i in range(2,numRows):
+        #         arr1=[0]*(i+1)
+        #         arr1[0]=1
+        #         arr1[i]=1
+                
+        #         a=1
+        #         index=1
+        #         temp=arr[i-1]
+        #         a+=1
+        #         for j in range(0,len(temp)-1):
+
+        #             arr1[index]=temp[j]+temp[j+1]
+        #             index+=1
+        #         print(arr1)
+        #         arr.append(arr1)
+        # return arr
                     
                     
         
