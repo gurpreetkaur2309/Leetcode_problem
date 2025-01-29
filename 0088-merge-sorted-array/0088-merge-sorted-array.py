@@ -28,17 +28,37 @@
 
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
-        midx = m - 1
-        nidx = n - 1 
-        right = m + n - 1
+        # midx = m - 1
+        # nidx = n - 1 
+        # right = m + n - 1
 
-        while nidx >= 0:
-            if midx >= 0 and nums1[midx] > nums2[nidx]:
-                nums1[right] = nums1[midx]
-                midx -= 1
-            else:
-                nums1[right] = nums2[nidx]
-                nidx -= 1
+        # while nidx >= 0:
+        #     if midx >= 0 and nums1[midx] > nums2[nidx]:
+        #         nums1[right] = nums1[midx]
+        #         midx -= 1
+        #     else:
+        #         nums1[right] = nums2[nidx]
+        #         nidx -= 1
 
-            right -= 1
+        #     right -= 1
+        
+        arr=[]
+        for i in range(0,m):
+            arr.append(nums1[i])
+        
+        
+        
+        for i in range(0,n):
+
+            arr.append(nums2[i])
+        arr.sort()
+        for i in range(0,len(nums1)):
+            nums1[i]=arr[i]  
+        print(nums1)   
+        
+        
+            
+
+
+
         
