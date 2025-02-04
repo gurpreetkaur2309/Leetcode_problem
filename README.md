@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0560-subarray-sum-equals-k) |
 | [0898-transpose-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0948-sort-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0493-reverse-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -244,4 +248,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
