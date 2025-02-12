@@ -16,15 +16,13 @@ class Solution:
             #     if(nums[loop]!=nums[i]):
             #         end=loop-1
             # return [start,end]
-            flag=1
-            index=-1
+            
+            
             s=[]
             for i in range(n):
                 if(nums[i]==target):
-                    index=i
                     s.append(i)
-                    flag=0
-            if(flag==1):
+            if(len(s)==0):
                 return [-1,-1]
             else:
                 return [s[0],s[len(s)-1]]
