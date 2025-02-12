@@ -18,18 +18,16 @@ class Solution:
             # return [start,end]
             flag=1
             index=-1
+            s=[]
             for i in range(n):
                 if(nums[i]==target):
                     index=i
-                    break
-            for i in range(n):
-                if(nums[i]==target):
-                    count+=1
+                    s.append(i)
                     flag=0
             if(flag==1):
                 return [-1,-1]
             else:
-                return [index,index+count-1]
+                return [s[0],s[len(s)-1]]
             
                 
         
