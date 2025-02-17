@@ -14,7 +14,14 @@ class Solution:
             h1=0
             f1=0.0
             for i in range(0,n):
-                h1=h1 + math.ceil(piles[i] / mid )
+                if(piles[i]/mid > piles[i]//mid):
+                    h1=h1+(piles[i]//mid)+1
+
+                else:
+                    h1=h1+(piles[i]//mid)
+        
+            # for i in range(0,n):
+            #     h1=h1 + math.ceil(piles[i] / mid )
                 
             return h1
         while(low<=high):
