@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0152-maximum-product-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Binary Search
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0125-valid-palindrome) |
+| [0940-distinct-subsequences-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0940-distinct-subsequences-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Depth-First Search
