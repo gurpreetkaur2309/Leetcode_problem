@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1013-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/3870-count-commas-in-range) |
 ## Array
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0493-reverse-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
