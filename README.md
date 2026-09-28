@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0940-distinct-subsequences-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Depth-First Search
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0560-subarray-sum-equals-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Memoization
 |  |
