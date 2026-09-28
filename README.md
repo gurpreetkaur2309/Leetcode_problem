@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0940-distinct-subsequences-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Depth-First Search
 |  |
@@ -282,4 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
