@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3498-reverse-degree-of-a-string](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/3498-reverse-degree-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
