@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Trie
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Linked List
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gurpreetkaur2309/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
